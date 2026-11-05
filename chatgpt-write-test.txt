@@ -1,0 +1,5 @@
+GitHub write-access test
+
+Created by ChatGPT on 2026-11-05 to confirm that it can create files in the public partial_results repository.
+
+No research results are included in this test file.
